@@ -1,0 +1,23 @@
+{
+  "name": "Whisper-Material-Symbols",
+  "author": "TCOTC",
+  "url": "https://github.com/TCOTC/Whisper-Material-Symbols",
+  "version": "0.0.1",
+  "minAppVersion": "2.8.8",
+  "displayName": {
+    "default": "Material Symbols",
+    "zh_CN": "Material Symbols"
+  },
+  "description": {
+    "default": "Whisper Material Symbols Icons",
+    "zh_CN": "Whisper Material Symbols 图标包"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": ["https://bento.me/jeffff"]
+  },
+  "keywords": []
+}
