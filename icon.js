@@ -1,5 +1,5 @@
 document.body.insertAdjacentHTML('afterbegin',
-`<svg id="icons-whisper-material-symbols" style="position: absolute; width: 0; height: 0; overflow: hidden;" xmlns="http://www.w3.org/2000/svg">
+`<svg id="icons-Whisper-Icons" style="position: absolute; width: 0; height: 0; overflow: hidden;" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <symbol id="iconGroups" viewBox="0 0 32 32">
 

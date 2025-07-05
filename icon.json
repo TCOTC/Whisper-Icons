@@ -1,7 +1,7 @@
 {
-  "name": "Whisper-Material-Symbols",
+  "name": "Whisper-Icons",
   "author": "TCOTC",
-  "url": "https://github.com/TCOTC/Whisper-Material-Symbols",
+  "url": "https://github.com/TCOTC/Whisper-Icons",
   "version": "0.0.1",
   "minAppVersion": "2.8.8",
   "displayName": {
@@ -9,8 +9,8 @@
     "zh_CN": "Material Symbols"
   },
   "description": {
-    "default": "Whisper Material Symbols Icons",
-    "zh_CN": "Whisper Material Symbols 图标包"
+    "default": "Material Symbols Icons",
+    "zh_CN": "Material Symbols 图标包"
   },
   "readme": {
     "default": "README.md",
