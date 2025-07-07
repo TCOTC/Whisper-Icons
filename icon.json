@@ -2,15 +2,15 @@
   "name": "Whisper-Icons",
   "author": "TCOTC",
   "url": "https://github.com/TCOTC/Whisper-Icons",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minAppVersion": "2.8.8",
   "displayName": {
-    "default": "Material Symbols",
-    "zh_CN": "Material Symbols"
+    "default": "Whisper",
+    "zh_CN": "浅吟"
   },
   "description": {
-    "default": "Material Symbols Icons",
-    "zh_CN": "Material Symbols 图标包"
+    "default": "An icon pack customized based on personal preferences",
+    "zh_CN": "根据个人偏好制作的图标包"
   },
   "readme": {
     "default": "README.md",
@@ -19,5 +19,11 @@
   "funding": {
     "custom": ["https://bento.me/jeffff"]
   },
-  "keywords": []
+  "keywords": [
+    "Whisper Icons",
+    "Whisper Icon Pack",
+    "Whisper Icons Pack",
+    "浅吟图标",
+    "浅吟图标包"
+  ]
 }
